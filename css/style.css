@@ -1,0 +1,17 @@
+body
+{
+    background-color: blue;
+    color:orange
+}
+
+p
+{
+font-size:16px;
+justify-content: center;
+}
+
+p:hover, table:hover
+{
+    background-color: aquamarine;
+    font-size:20px;
+}
