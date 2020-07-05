@@ -3,6 +3,7 @@ body
 {
     background-color: #c5cbe3;
     color: #4056a1;
+    font-family: 'Montserrat', sans-serif;
 }
 
 p
@@ -13,6 +14,6 @@ justify-content: center;
 
 p:hover, table:hover
 {
-    background-color: aquamarine;
+    background-color: #efe2ba;
     font-size:20px;
 }
